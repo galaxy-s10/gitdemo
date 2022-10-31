@@ -1,2 +1,4 @@
-* text=auto
-# * text eol=crlf
+# 设置* text=auto的话，一般情况下没问题，但是如果git配置了safecrlf = true，就会导致问题
+# * text=auto
+# 设置* text eol=crlf的话，就一定没有问题了
+* text eol=crlf
