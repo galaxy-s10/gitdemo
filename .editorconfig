@@ -1,8 +1,0 @@
-# https://editorconfig.org
-# 控制编辑器代码规范，如按下回车的时候，缩进几个空格等等。
-# 最顶层的EditorConfig文件
-root = true
-
-[*]
-# tab_width默认为indent_size的值，通常不需要指定。
-# end_of_line = crlf  # 结尾符,也可以设置成:crlf
