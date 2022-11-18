@@ -1,1 +1,5 @@
+
+root = true
+
+[*]
 end_of_line = lf  # 结尾符,也可以设置成:crlf
