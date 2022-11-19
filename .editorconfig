@@ -2,4 +2,4 @@
 root = true
 
 [*]
-end_of_line = lf  # 结尾符,也可以设置成:crlf
+end_of_line = crlf  # 结尾符,也可以设置成:crlf
